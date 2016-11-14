@@ -1,0 +1,16 @@
+GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP ON `wp-okos-01`.* TO 'shapu-okos-adm'@'localhost'WITH GRANT OPTION;
+
+Database name		wp-okos-01			db653530485
+Database username	shapu-okos-adm			dbo653530485
+Database password	5TqNdFDRMst3uEFr		
+Database host		localhost			db653530485.db.1and1.com
+							db653532967.db.1and1.com
+Table prefix		wp_okos_
+
+Site Title		One Kid Onde Smile
+Username		wp_okos_admin
+Password		PkIY90P0kA8^$!(iE&
+e-mail			shapuleto@gmail.com
+Privacy			na
+
+	<---
