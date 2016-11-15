@@ -14,6 +14,12 @@
 
 /* Start	- Header */
 /* End		- Header */
+/* Start	- Menu */
+.sitenav ul li:hover > ul {
+	display: block;
+	width: 100%;
+}
+/* End		- Menu */
 /* Start	- Body */
 /* End		- Body */
 /* Start	- Footer */
